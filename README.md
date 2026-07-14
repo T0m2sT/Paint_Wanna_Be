@@ -4,7 +4,7 @@ A command-line image editor written in C++17. It loads and saves PNG images and 
 
 ![Grade](https://img.shields.io/badge/Grade-19.8%2F20-1E90FF?style=for-the-badge&labelColor=21262d)
 ![Course](https://img.shields.io/badge/Course-P-1E90FF?style=for-the-badge&labelColor=21262d)
-![Semester](https://img.shields.io/badge/Semester-2025%2F26-1E90FF?style=for-the-badge&labelColor=21262d)
+![Year](https://img.shields.io/badge/Year-2024%2F25-1E90FF?style=for-the-badge&labelColor=21262d)
 
 ## How it works
 
